@@ -1,2 +1,6 @@
 # hello-world
-just another repository
+==============
+
+Hello Humans!
+
+I really like hawaiian pizza.
